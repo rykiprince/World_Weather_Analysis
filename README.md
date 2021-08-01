@@ -9,7 +9,7 @@ Performing world weather analysis with APIs and creating Google maps for vacatio
 
 ## Create a Customer Travel Destinations Map
 ### Retrieve vacation destination data for customer based on the preferred max temperature:
-![Screen Shot 2021-08-01 at 12 14 43 AM](https://user-images.githubusercontent.com/66225050/127762717-5853befe-7640-4001-af88-238787897ca2.png)
+![Screen Shot 2021-08-01 at 12 18 56 AM](https://user-images.githubusercontent.com/66225050/127763295-b38baff0-e1b0-4e70-8bbd-ea933334cf9b.png)
 
 ### Create a marker layer map containing pop-up marker for each city:
 ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
